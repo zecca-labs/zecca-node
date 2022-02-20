@@ -1,7 +1,4 @@
-# zecca-node
-The fast, scalable, environmentally friendly, privacy focused, blockchain that natively integrates digital identity to facilitate AML/KYC compliance and permit both permissioned and permissionless transfers of assets.
-
-
+# Zecca
 
 [![Live Artifacts](https://github.com/zecca-labs/zecca-node/workflows/Live/badge.svg)](https://github.com/zecca-labs/zecca-node/actions?query=workflow%3ALive)
 [![Beta Artifacts](https://github.com/zecca-labs/zecca-node/workflows/Beta/badge.svg)](https://github.com/zecca-labs/zecca-node/actions?query=workflow%3ABeta)
@@ -13,3 +10,7 @@ The fast, scalable, environmentally friendly, privacy focused, blockchain that n
 ---
 
 ### What is Zecca?
+
+Zecca is a digital asset transfer protocol that protects user privacy and enables compliance with AML/KYC rules.  Zecca solves several core problems with public blockchains:  it's fast, scalable, environmentally friendly, privacy focused, natively integrates with digital identity, facilitates regulatory compliance, and permits both permissioned and permissionless transfers of assets.  
+
+Zecca creates a directed acyclic graph (DAG) and uses an Open Representative Voting (ORV) consensus mechanism. It operates a block-lattice data structure.
